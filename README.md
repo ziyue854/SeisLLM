@@ -73,7 +73,7 @@ torchrun \
     --seed 3407 \
     --mode "test" \
     --model-name "SeisLLM_emg" \
-    --checkpoint "/path/to/your/checkpoint" \
+    --checkpoint "/path/to/your/trained_checkpoint" \
     --use-flash-attn true \
     --llm "GPT2" \
     --LLM_layer_num 6 \
