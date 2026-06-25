@@ -96,7 +96,7 @@ It should be noted that `train_size` and `val_size` during testing must be consi
 
 ## Citation
 
-The baseline models used in this project include:
+The baseline models used in this project include
 
 - **PhaseNet**  
   *Zhu, W., & Beroza, G. C. (2019). PhaseNet: A deep-neural-network-based seismic arrival-time picking method. Geophysical Journal International, 216(1), 261-273.*
